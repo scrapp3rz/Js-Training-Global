@@ -11,7 +11,7 @@
 
 // Your code :
 function abs(arg){
-    if(Math.sign(arg) ===1 || Math.sign(arg) ===0){
+    if(Math.sign(arg) === 1 || Math.sign(arg) === 0){
     return arg;
     }
     else{
